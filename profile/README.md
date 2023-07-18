@@ -1,4 +1,5 @@
 # Loot Tavern & Foundry VTT
-This GitHub organization holds all themed Compendium Packs made by [MrVauxs](https://github.com/MrVauxs) which were commissioned by [Loot Tavern](https://loottavern.com/).
+Welcome to the FoundryVTT corner of Loot Tavern!
+Here you will find all the packages made by [@MrVauxs](https://github.com/MrVauxs), as well as a few others from the members of the team.
 
-You can report issues and bugs in **[HERE](https://github.com/Loot-Foundry/loot-tavern-content)**.
+You can report issues and bugs in **[HERE](https://github.com/Loot-Foundry/loot-tavern-content)**. Go to **Issues** and fill in the form!
